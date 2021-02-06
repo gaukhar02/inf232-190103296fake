@@ -1,12 +1,13 @@
 # inf232-190103296
 ```
-### __Hello!__
+Hello!
 ```
 ### My name Gaukhar
-### I am a sophomore)
+```
+I am a sophomore)
 ```
 ### I live in the city of Kentau
-```
+
 ___
 
 
